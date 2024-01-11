@@ -71,4 +71,4 @@ If you want to contribute to this project, please follow these steps:
 
 ## Contact
 
-For any feedback or queries, please connect with me throught my [Linkedin](https://www.linkedin.com/in/vinicius-capozzi)!!
+For any feedback or queries, please connect with me through my [Linkedin](https://www.linkedin.com/in/vinicius-capozzi)!!
